@@ -20,7 +20,7 @@ Manages the player connection queue, enforcing slot limits and priority access. 
 
 ## License
 
-Copyright © 2024 Pulsar Framework. All rights reserved.
+Copyright © 2026 Pulsar Framework. All rights reserved.
 
 <div align="center">
 
