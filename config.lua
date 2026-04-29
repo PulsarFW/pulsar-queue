@@ -28,7 +28,7 @@ Config = {
 		Joining = "Joining Server...",
 		NoIdentifier = "Could Not Find A License Identifier, Relaunch FiveM and try again.",
 		NotReady = "The server has not yet finished loading, please try again in a few minutes.",
-		NotWhitelisted = "You Are Not Whitelisted For This Server - Apply Today At https://sandboxrp.gg/",
+		NotWhitelisted = "You Are Not Whitelisted For This Server - Apply Today At https://pulsarfw.com/",
 		Queued = "✈️ Position %s of %s - 🕑 Time In Queue: %s%s",
 		Retrieving = "Retrieving Queue Information",
 		Waiting = "Waiting For Queue To Open - %s %s %s %s",
@@ -57,14 +57,14 @@ Config.Cards.NotWhitelisted = {
 			type = "TextBlock",
 			wrap = true,
 			text =
-			"You are not whitelisted for this server or a connected account could not be found. Please visit the website to apply for whitelist or to link your account at https://sandboxrp.gg/",
+			"You are not whitelisted for this server or a connected account could not be found. Please visit the website to apply for whitelist or to link your account at https://pulsarfw.com/",
 		},
 		{
 			actions = {
 				{
 					title = "Visit Site",
 					type = "Action.OpenUrl",
-					url = "https://sandboxrp.gg/",
+					url = "https://pulsarfw.com/",
 				},
 				{
 					title = "Start Account Linking",
